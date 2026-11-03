@@ -8,7 +8,7 @@ class Migration(migrations.Migration):
     # dependencies: DÉJALA COMO LA ESCRIBIÓ DJANGO; debe apuntar a la migración copiar_categorias
     dependencies = [
         # ejemplo: la migración del paso 03; en tu archivo puede tener otro número
-        ('core', '0006_copiar_categorias'),
+        ('core', '0005_copiar_categorias'),
     # cierra la lista de dependencias
     ]
 
